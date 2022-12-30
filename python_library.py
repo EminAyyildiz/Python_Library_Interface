@@ -1,4 +1,6 @@
 
+# Written by Emin Ayyıldız
+print("Written by Emin Ayyıldız")
 
 import os
 

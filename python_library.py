@@ -6,7 +6,6 @@ import os
 
 book_list = list()
 
-
 menu = """
 1) Enter a book
 2) Select a book
@@ -51,8 +50,6 @@ while True:
              input("Press Enter to return menu..")
         else:
             enter_a_book(book, book_list)
-
-
 
     elif choise == "2":
         book_name = input("Book name :")
